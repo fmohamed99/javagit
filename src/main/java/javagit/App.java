@@ -5,5 +5,7 @@ public class App {
 		System.out.println("Bonjour");
 		System.out.println("hey khjhjjhjhon rentre quand c'est 17.22 ");
 
+		System.out.println("Bien reçu !");
+
 	}
 }
